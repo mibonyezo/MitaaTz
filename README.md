@@ -48,7 +48,7 @@ Here an example (Some places in Tanzania)
 
 If you found this repository useful, give it a star 
 
-
+You can also keep in touch with me on [Twitter](https://twitter.com/j_kalebu).
 
 Bug bounty?
 -----------------
